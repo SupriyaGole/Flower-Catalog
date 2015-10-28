@@ -1,0 +1,24 @@
+h1{
+	text-align:center;
+	color:orange;
+	margin:1cm 0cm 0cm 0cm;
+}
+h3{
+	padding-top:400px
+}
+#{
+	float:right;
+	margin:0% 20% 0% 30%;
+	padding:20px 50px 10px 10px;
+	/*margin:;*/
+}
+
+#flower{
+	float:left;
+	margin:1cm 0cm 2cm 2cm;
+}
+#animated{
+	float:right;
+	margin-right:20%;
+	margin-top: 20%;
+}
